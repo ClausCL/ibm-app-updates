@@ -1,6 +1,6 @@
 {
-  "version": "0.1.16",
-  "notes": "Correções e melhorias.",
+  "version": "0.1.17",
+  "notes": "### Android\r\n- O app agora busca atualizações diretamente do Release mais recente no GitHub, tornando o processo mais rápido e estável.\r\n- As notificações de nova versão agora exibem um resumo das notas de atualização.\r\n- Corrigido um bug que poderia impedir a detecção de atualizações se a URL tivesse pontuação no final.\r\n\r\n### Windows\r\n- O instalador (`IBM.exe`) agora é configurado para buscar atualizações automaticamente do mesmo repositório público, garantindo consistência entre as plataformas.\r\n- O nome do executável foi padronizado para `IBM.exe` em novas compilações.\r\n\r\n### Infraestrutura & Automação\r\n- Adicionado um script (`npm run publish:updates`) que automatiza todo o processo de publicação: cria o release, sobe os arquivos (`.apk`/`.exe`) e atualiza o `version.json` com as notas e links corretos.\r\n- O site foi ajustado para usar os links mais estáveis, com fallbacks para garantir o acesso ao download.\r\n\r\n### Melhorias Gerais\r\n- Melhoria nas mensagens de erro quando o arquivo de versão não é encontrado ou há falhas de rede.\r\n- O fluxo de login foi reforçado para lidar melhor com sessões expiradas (\"token_revoked\").\r\n",
   "downloadUrlAndroid": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.apk",
   "downloadUrlWindows": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.exe",
   "force": false
