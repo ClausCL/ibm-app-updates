@@ -3,5 +3,5 @@
   "notes": "Conflito de sessão: modal de confirmação para encerrar sessão da mesma plataforma; Telemetria aprimorada do login Google (web/nativo) com diagnósticos; 401 em /auth/me tratado como informação; UX e estabilidade no APK.",
   "downloadUrlAndroid": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.apk",
   "downloadUrlWindows": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.exe",
-  "force": false
+  "force": true
 }
