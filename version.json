@@ -1,6 +1,6 @@
 {
-  "version": "0.1.22.2",
-  "notes": "Build CI Windows",
+  "version": "0.1.23",
+  "notes": "chore(release): ajustes de update in-app, rede e CI (android/windows)\r\n\r\n",
   "downloadUrlAndroid": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.apk",
   "downloadUrlWindows": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.exe",
   "force": false
