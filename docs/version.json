@@ -1,6 +1,6 @@
 {
-  "version": "0.1.23.8",
-  "notes": "Conflito de sessão: modal de confirmação para encerrar sessão da mesma plataforma; Telemetria aprimorada do login Google (web/nativo) com diagnósticos; 401 em /auth/me tratado como informação; UX e estabilidade no APK.",
+  "version": "0.1.23.9",
+  "notes": "Correções críticas: janela de ação para conflito de sessão (admin/user) em login por e‑mail/senha e Google; correções no fluxo Google web; versão do app sincronizada com updater; atualização forçada habilitada.",
   "downloadUrlAndroid": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.apk",
   "downloadUrlWindows": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.exe",
   "force": true
