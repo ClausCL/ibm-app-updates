@@ -1,6 +1,6 @@
 {
   "version": "0.1.23.7",
-  "notes": "android: atualizar compileSdk/targetSdk para 36 e instalar build-tools 36 na CI\r\n\r\n\r\n",
+  "notes": "android: atualizar compileSdk/targetSdk para 36 e instalar build-tools 36 na CI",
   "downloadUrlAndroid": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.apk",
   "downloadUrlWindows": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.exe",
   "force": false
