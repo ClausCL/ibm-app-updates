@@ -1,6 +1,6 @@
 {
-  "version": "0.1.23.4",
-  "notes": "Release v0.1.23.4",
+  "version": "0.1.23.5",
+  "notes": "fix: sync tag version in CI and enable Google login\r\n\r\n\r\n",
   "downloadUrlAndroid": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.apk",
   "downloadUrlWindows": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.exe",
   "force": false
