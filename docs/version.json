@@ -1,7 +1,7 @@
 {
-  "version": "0.1.24.0",
-  "notes": "Reassinada",
+  "version": "0.1.24.1",
+  "notes": "Login",
   "downloadUrlAndroid": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.apk",
   "downloadUrlWindows": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.exe",
-  "force": true
+  "force": false
 }
