@@ -1,6 +1,6 @@
 {
-  "version": "0.1.24.5",
-  "notes": "Correções",
+  "version": "0.1.24.6",
+  "notes": "Ajustes",
   "downloadUrlAndroid": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.apk",
   "downloadUrlWindows": "https://github.com/ClausCL/ibm-app-updates/releases/latest/download/IBM.exe",
   "force": false
