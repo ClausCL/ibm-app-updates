@@ -1,0 +1,9 @@
+{
+  "version": "0.1.24.47",
+  "notes": "Atualização do aplicativo nativo - Melhorias de performance e novos recursos",
+  "downloadUrlAndroid": "https://github.com/ClausCL/ibm-app-updates/releases/download/v0.1.24.47/IBM.apk",
+  "downloadUrlWindows": "",
+  "force": false,
+  "platform": "native",
+  "buildType": "android-native"
+}
