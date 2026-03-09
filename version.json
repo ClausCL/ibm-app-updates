@@ -1,7 +1,7 @@
 {
-  "version": "0.1.24.66",
+  "version": "0.1.24.67",
   "notes": "Hotfix",
-  "downloadUrlAndroid": "https://github.com/ClausCL/ibm-app-updates/releases/download/v0.1.24.66/IBM.apk",
-  "downloadUrlWindows": "https://github.com/ClausCL/ibm-app-updates/releases/download/v0.1.24.66/IBM.exe",
-  "force": true
+  "downloadUrlAndroid": "https://github.com/ClausCL/ibm-app-updates/releases/download/v0.1.24.67/IBM.apk",
+  "downloadUrlWindows": "https://github.com/ClausCL/ibm-app-updates/releases/download/v0.1.24.67/IBM.exe",
+  "force": false
 }
