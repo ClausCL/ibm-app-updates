@@ -3,5 +3,5 @@
   "notes": "Hotfix",
   "downloadUrlAndroid": "https://github.com/ClausCL/ibm-app-updates/releases/download/v0.1.24.66/IBM.apk",
   "downloadUrlWindows": "https://github.com/ClausCL/ibm-app-updates/releases/download/v0.1.24.66/IBM.exe",
-  "force": false
+  "force": true
 }
